@@ -6,6 +6,7 @@ package unknowns.developer.ankit.javascript_eloquentjsbook;
 public class Chapter {
     private String number, name;
 
+
     public Chapter() {
     }
 
